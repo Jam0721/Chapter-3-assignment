@@ -1,0 +1,24 @@
+﻿Name Jack Milner        Period 9-10       
+
+
+Chapter 3 assignment
+
+
+Fill in the blank (10 points)
+
+
+1. The operators +, -, *, /, and % can be combined with the assignment operator to form ________ operators.
+
+
+1. Final is the keyword used to declare a constant.
+
+
+1. To use a variable, you _____ it by telling the compiler its name as well as what type of data it can store.
+
+
+1. Identifiers are the names that identify the ________ such as classes, methods, and variables in a program.
+
+
+1. Real numbers (i.e., numbers with a decimal point) are represented using a method known as _______ ________ in computers.
+
+
