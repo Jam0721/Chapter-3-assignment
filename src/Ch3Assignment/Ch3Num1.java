@@ -12,6 +12,7 @@ public class Ch3Num1 {
 		farenheit = input.nextDouble();
 		celsius = (farenheit -32)/1.8;
 		System.out.println(celsius);
+		
 
 	}
 

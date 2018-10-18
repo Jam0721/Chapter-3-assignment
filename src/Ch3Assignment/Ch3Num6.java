@@ -15,6 +15,7 @@ public class Ch3Num6 {
 		double energy = water*(ft-it)*4184;
 		System.out.println(" The energy is " +energy);
 		
+		
 
 	}
 
